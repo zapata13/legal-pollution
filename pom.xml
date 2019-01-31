@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.redhat.rest</groupId>
   <artifactId>claro-rest</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <name>Fuse :: Boosters :: Rest HTTP</name>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
